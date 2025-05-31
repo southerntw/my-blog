@@ -33,8 +33,6 @@ It’s a complete murder. For reasons unknown, Namco had decided to slash the bu
 
 Comparison of ‘Zero Gravity’ Japanese Version vs International Version
 
-https://youtu.be/6-DZuWhV9v8
-
 <iframe width="100%" height="468" src="https://www.youtube.com/embed/6-DZuWhV9v8?si=LYgrsdA7brsPTMJr" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="100%" height="468" src="https://www.youtube.com/embed/KK7G6dKqVUg?si=ylBF3ozyezprPc6B" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
