@@ -4,7 +4,7 @@ published: 2023-10-01
 description: 'A blog covering the life of Kiriyama Rei, the bullying of Hinata Kawamoto, and my love towards an anime.'
 image: "./assets/0.jpg"
 tags: ["Anime", "Blogging"]
-category: 'Stories'
+category: 'Review'
 draft: false 
 ---
 

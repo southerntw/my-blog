@@ -4,7 +4,7 @@ published: 2021-06-24
 description: 'Replaying my childhood game'
 image: "./assets/0.webp"
 tags: ["Games", "Blogging"]
-category: 'Stories'
+category: 'Review'
 draft: false 
 ---
 
