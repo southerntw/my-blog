@@ -2,24 +2,27 @@
 title: March Comes in like a Lion - Lessons in Life
 published: 2023-10-01
 description: 'A blog covering the life of Kiriyama Rei, the bullying of Hinata Kawamoto, and my love towards an anime.'
-image: "./blog.jpg"
+image: "./assets/0.jpg"
 tags: ["Anime", "Blogging"]
 category: 'Stories'
 draft: false 
 ---
 
 :::note[Spoiler alert for March Comes in like a Lion Season 2!]
-I can recommend you to read the first and last few paragraphs of this stack in case to interest yourself to the anime. However, if you want to avoid spoilers altogether, then you know, just watch the anime!
-"March Comes in like a Lion" is an anime about life. It tells the story of how one struggles within the confines of their mind on a cold, lonely path, and how a glimmering light gradually warms their heart, allowing them to embrace others.
+I can recommend you to read the first and last few paragraphs of this blog to interest yourself to the anime. However, if you want to avoid spoilers altogether, then you know, just watch the anime!
 :::
+
+"March Comes in like a Lion" is an anime about life. It tells the story of how one struggles within the confines of their mind on a cold, lonely path, and how a glimmering light gradually warms their heart, allowing them to embrace others.
 
 It's the story of Kiriyama Rei, a 17-year-old professional shogi player, hailed as one of the most promising prodigies in the world of shogi. However, while shogi plays a significant role within the plot of March Comes in like a Lion, the anime is far from a typical competitive sports story. Instead, it focuses on the young boy's struggles and his gradual reconciliation with his mental issues.
 
-The first season starts off quite slowly. Chica Umino, the writer, invests a considerable amount of time exploring the main character, giving us a glimpse into Rei's self-consuming depression. It's subtly portrayed, delving deep into his thoughts and behaviors, highlighting its negativity. Unlike some anime that depict depression with gloomy, exhausted characters, this anime carefully implies the mental issues.1
+The first season starts off quite slowly. Chica Umino, the writer, invests a considerable amount of time exploring the main character, giving us a glimpse into Rei's self-consuming depression. It's subtly portrayed, delving deep into his thoughts and behaviors, highlighting its negativity. Unlike some anime that depict depression with gloomy, exhausted characters, this anime carefully implies the mental issues.
 
 This initial part of the anime might seem dull to some, as I initially thought too, but it lays the foundation for what comes next.
 
 Additionally, we're introduced to other characters who have become integral parts of Rei's life. These include his adoptive family, friends, and rivals within the world of shogi, and the one I’ll be touching upon, the Kawamoto family.
+
+![Rei and the Kawamotos](./assets/1.jpg)
 
 At the start of March Comes in like a Lion, Rei is living independently and has moved out of his adoptive family's residence. He seems to be heading down a path of loneliness, residing in an almost empty apartment furnished with little more than a tall cabinet for his clothes, a kitchen set for food, a shogi board for work, a bathroom, used cardboards substituting curtain, and a cheap kotatsu for rest. He often isolates himself within his apartment, playing shogi and neglecting his own health, frequently eating instant or unhealthy food.
 
@@ -27,9 +30,13 @@ Consequently, his professional life in shogi is also taking a hit. After climbin
 
 Much like his apartment - which lacks sufficient light - Rei's life is gradually being consumed by darkness.
 
+![Rei’s life on his lonely apartment](./assets/2.jpg)
+
 Rei Kiriyama's Curtains — Lighting in March Comes In Like A Lion | atelier  emily
 Rei’s life on his apartment
 Then, there comes the Kawamoto family. This family consists of three sisters: Akari Kawamoto (the eldest), Hinata Kawamoto, and Momo Kawamoto (the youngest), along with their grandfather, Someji Kawamoto. They become a vital source of warmth for Rei, offering delicious meals, a cozy kotatsu, and all sorts of kindness. Throughout the first season, we witness this family gradually becoming a significant part of Rei's life. They’ve became a second family for Rei.
+
+---
 
 ## Ladybug Bush
 The beginning of the second season marks a significant event in Rei's life, one that sets him on a path toward positive change, which all started within "The Ladybug Bush" chapter.
@@ -37,6 +44,8 @@ The beginning of the second season marks a significant event in Rei's life, one 
 In the early episodes of the second season, Rei's bond with the Kawamoto family has deepened. He starts visiting their home more frequently, either simply for dinner or to lend a hand. Simultaneously, we witness progress in Rei's mental health. Thanks to his schoolteacher, who happens to be a fan of his, Rei is invited to create a shogi and science mix club. For the first time, Rei makes friends at school and begins to experience the joy of a school life.
 
 However, an unexpected event strikes the Kawamoto family one day. Hinata Kawamoto, the middle child of the Kawamotos, returns from middle school in tears, her arrival marred by a gruesome sight: she has arrived without one of her shoes. Hinata Kawamoto has become the target of bullying, a revelation that shocks the family and undoubtedly leaves them under a lot of questions.
+
+![The beginning of “Ladybug Bush”](./assets/3.jpg)
 
 Hinata Kawamoto, we call Hina, recounts the story. Initially, she wasn't the target of the bullying. The bullying had begun with her classmate, Chiho Sakura, who also happened to be Hina's childhood friend. Being a kind girl she's been, Hina tried to step in and protect Chiho. She talked with Chiho, shared lunches, and offered emotional support to ensure she didn't fully feel left out.
 
@@ -58,11 +67,11 @@ A question may looms as you watch this arc: why? Why did Hina help Chiho? Why di
 
 Returning to the anime, there's a charming scene under the moonlight by the March River. Hina sits with tears, while Rei stands before her, at a loss for words. Hina opens up about her fear—that her enjoyable school life and friends will vanish, leaving her alone for the rest of the year. She questions why her friends can simply ignore Chiho, why the teacher can act as if nothing happened. Then, she makes a declaration, offering us and Rei a glimpse into her admirable resolve.
 
-"Why did this happen? The school was so much fun every day until the second year. Chiho was stressed with everything, so why did everyone—why did they pretend not to see anything or say 'if you protect her, they will target you next'? Why?
+![A moment within that fateful night](./assets/4.jpg)
 
-But it turned out just as they thought. I'll be alone tomorrow. I'll— I'll be all alone, I'm scared. The truth is, I've been scared this whole time.
-
-But I don't regret anything! I can't! Because what I did was definitely not wrong!"
+> "Why did this happen? The school was so much fun every day until the second year. Chiho was stressed with everything, so why did everyone—why did they pretend not to see anything or say 'if you protect her, they will target you next'? Why?
+> But it turned out just as they thought. I'll be alone tomorrow. I'll— I'll be all alone, I'm scared. The truth is, I've been scared this whole time.
+> But I don't regret anything! I can't! Because what I did was definitely not wrong!"
 
 Even after enduring the hardships and pain, she doesn't believe she was wrong. And, heck, she was obviously and absolutely not wrong. Not at all. However, it's impressive how this middle school girl persists. She is strong at heart, very strong, far more than I could ever muster, let alone act upon.
 
@@ -71,6 +80,8 @@ School and family are significant parts of Hina's life. Her school life is falli
 Emotional support is vital for Hina's well-being, and her family provides that support. Her older sister, Akari, offers kindness, the comfort and nourishment she needs. Akari essentially acts as a mother figure to Hina. Then there's Rei. We'll explore Rei's intentions more deeply later, but essentially, he provides a safe space for Hina to pour out her heart; vent. They play shogi in her room, with Hina speaking and Rei listening. All he does is listen, but in retrospect, his presence is more than enough to help Hina in that moment—although he may not have been aware of that fact.
 
 And then there's the wisdom of her grandfather. Despite Hina's conviction that she's right, something crucial is still missing: affirmation. She believes she's right, but she's still filled with doubt and feelings of being lost. The day after we learn about the bullying, her grandfather delivers powerful reinforcement to Hina.
+
+![“You are amazing!”](./assets/5.jpg)
 
 > “You are amazing!”
 > "You've done nothing wrong. You are right, you are brave. Not even an adult could have done what you did. I'm proud of what you did."
@@ -81,6 +92,8 @@ Of course, providing emotional support is one thing, but solving the problem is 
 
 But then, one day, the gears begin to turn. In class, Hina is accused by one of the bullies of stealing the teacher's lost property. Thanks to all the emotional support she's received, Hina bravely fights back, stepping in and demanding that they stop. She quite literally stood up before the bully, questioning their actions. With a voice that echoes throughout the class, she asks, "why?" while the bully is left unable to answer.
 
+![“Hinata confronts the bully”](./assets/6.jpg)
+
 This is the moment when the homeroom teacher revealed her issues as well, visibly anxious, she's aware of the bullying, yet feeling helpless—believing that nothing could've been done, so she decided to ignore it. However, things escalated so badly that even the homeroom teacher herself became a target of the bullying. In that moment, the teacher rambled at length, broke down; collapsed, unconscious.
 
 The incident created a significant noise within the school, prompting the head teacher himself to step in. However, little did they know, this was a good omen for Hina and her school life.
@@ -89,15 +102,16 @@ The head teacher, upon learning about the bullying, called for a parent-teacher 
 
 Here, once again, Hina displayed the strength of her heart. While her sister, Akari, is composing herself and apologized to Hina for not being able to do anything, Hina reassured her, thanking Akari for her efforts.
 
-"I understand now, the bullies will never admit they're wrong. Just like Chiho, once it's over, they'll forget it. So, I won't let them do what they want. If they bully me, I'll yell them to stop. I refuse to be quiet. As long as I survive and graduate, it's my victory!"
+!["Yet another powerful moment by Hina”](./assets/7.jpg)
 
-"So it's fine. Thanks for coming, sis. Thank you."
+> "I understand now, the bullies will never admit they're wrong. Just like Chiho, once it's over, they'll forget it. So, I won't let them do what they want. If they bully me, I'll yell them to stop. I refuse to be quiet. As long as I survive and graduate, it's my victory!"
+> "So it's fine. Thanks for coming, sis. Thank you."
 
 The head teacher observed the situation. By that point, it seemed like the head teacher had grasped the dynamics of the situation, understanding both the bullies and the bullied. In a calming and soothing tone, he spoke to Hina and Akari.
 
-“You have nothing at all to be worry about. It’s fine. More importantly, why don’t we talk about the next steps?”
+> “You have nothing at all to be worry about. It’s fine. More importantly, why don’t we talk about the next steps?”
 
-And with that, marks the end of the bullying of Hinata Kawamoto.
+And with that, marks *the end of the bullying of Hinata Kawamoto*.
 
 The aftermath unfolded soon after. The bullies were individually questioned by a team and subsequently—albeit insincerely—apologized for their actions in front of the class. The teacher managed to dispel the tense atmosphere that had gripped the class. Hina's friends all apologized for their inability to help, and they quickly made amends with each other. Additionally, Hina also received a letter from Chiho, inviting her for a visit later on the summer break.
 
@@ -105,7 +119,7 @@ There was a moment between the head teacher and Hina in the aftermath. Hina stat
 
 After the conversation, the head teacher had a thought. Which, for me, who's always been pushed to be an educator by my family, was really fascinating.
 
-"Education, huh? If only it were as easy as it sounds. Our job is to teach and raise students. If not for 'raise,' I would have never gotten involved in this whole issue."
+> "Education, huh? If only it were as easy as it sounds. Our job is to teach and raise students. If not for 'raise,' I would have never gotten involved in this whole issue."
 
 What a headache, huh? However, in all fairness, the teacher did a really great job handling the situation. He provided a solution that's beneficial for all parties, especially for Hina. He made Hina feel like she belonged at school and returned her life to normality, which is no easy task.
 
@@ -127,7 +141,11 @@ For Hina, it feels like she has gained a boost in self-esteem. The pain she endu
 
 Akari should feel a similar way. Although, in the end, she might feel guilt for not being able to help her sister as much as she expected, she should also take pride in fulfilling her promise to their mother—to stand by Hina's (and Momo's) side no matter what.
 
+!["Rei is thanked by the bright and relieved Hina”](./assets/8.jpg)
+
 As for Rei, this event profoundly impacted his life. At the time, he might not have realized it, but he found the love of his life. Rei discovered his motivation—a reason to fight for someone he cares deeply about and looks forward to seeing, someone he can rely on. Honestly, I'm astonished by the transformative power of love. His life improved in every way, and if you've watched the last episode or stick longer for the manga, you'll see how different he is in the present. In short, it made me realize that love is genuinely powerful.
+
+---
 
 ## Closing Words and Conclusion
 When I decided to embrace watching anime after two years of pure disinterest and perhaps even a bit of hatred, I made a little plan for myself: watch two episodes per day. This way, I could grasp the story, enjoy the show better, and do so in a healthy manner.
@@ -140,8 +158,10 @@ It also made me reflect on how ignorant we can be toward fiction works. There ar
 
 Besides that, it also highlights a very important problem caused by bullying. I might be not the best person to present data for you, so I’ll link you a relevant blog about it.3
 
-Kiriyama Rei is one of the most relatable characters for me, and watching his problems slowly fade away provides a great sense of relief and inspiration for me. I also must reiterate that I truly, truly, truly, truly! admire the strength of Hinata Kawamoto. I had always perceived Hina as nothing more than a cute and cheerful little girl, yet when she expresses her feelings, it reveals her courageous and strong heart. (I envy you, Rei! But good for you, my man!)
+Kiriyama Rei is one of the most relatable characters for me, and watching his problems slowly fade away provides a great sense of relief and inspiration for me. I also must reiterate that I truly, truly, truly, truly! admire the strength of Hinata Kawamoto. I had always perceived Hina as nothing more than a cute and cheerful little girl, yet when she expresses her feelings, it reveals her courageous and strong heart. (*I envy you, Rei! But good for you, my man!*)
 
 March Comes in like a Lion is a fantastic show that potrays a lot kind of mental struggles and is crafted in a character-driven manner, which I thoroughly enjoyed. It's worth mentioning that while the anime primarily revolves around Rei and the Kawamoto family, it also delves into many other interesting characters. A few of my favorites are Shimada, Yanagihara, Souya, and Nikaidou.
+
+!["Burnt Field, another great chapter in March Comes in like a Lion S2.”](./assets/9.jpg)
 
 So, if you have the patience to sit down and watch a slow-paced forty-four-episode slice of life drama anime, I wholeheartedly recommend March Comes in like a Lion. Just a word of advice: try to avoid binge-watching. Anyway, thanks for reading.
