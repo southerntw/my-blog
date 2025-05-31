@@ -2,7 +2,7 @@
 title: Ten Months of Linux
 published: 2021-07-01
 description: 'Sharing My Experience with Linux so far.'
-image: "./assets/2.png"
+image: "./assets/02.png"
 tags: ["Tech", "Blogging"]
 category: 'Sharing'
 draft: false 
