@@ -2,7 +2,7 @@
 title: Why Liam Lawson is a Future F1 Driver
 published: 2022-12-17
 description: 'A Prediction on a Promising Talent.'
-image: "./assets/0.png"
+image: "./assets/0.jpeg"
 tags: ["F1", "Sports"]
 category: 'Thoughts'
 draft: false 
