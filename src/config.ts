@@ -67,6 +67,11 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:github",
 			url: "https://github.com/southerntw",
 		},
+		{
+			name: "LinkedIn",
+			icon: "fa6-brands:linkedin",
+			url: "https://linkedin.com/in/ahmadfauzanmansur",
+		}
 	],
 };
 
