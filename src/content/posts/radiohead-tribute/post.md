@@ -1,7 +1,7 @@
 ---
 title: Radiohead Tribute - Thoughts & Tier List
 published: 2023-10-11
-description: 'Ranking Radiohead Album From Good to Best. (yes from good)'
+description: 'Ranking Radiohead album from good to best. (yes from good)'
 image: "./assets/0.webp"
 tags: ["Music", "Blogging"]
 category: 'Review'
