@@ -1,6 +1,6 @@
 ---
 title: Red Bull's Second Seat Disaster
-published: 2025-06-03
+published: 2025-06-02
 description: 'A masterclass of baffling decision making'
 image: "./assets/0.png"
 tags: ["F1", "Sports"]
@@ -44,16 +44,18 @@ Ever since 2022, the car's handling has gradually worked against the RB second d
 
 I can't quite blame Red Bull for favoring their golden boy, but frankly, for Red Bull, Max Verstappen is both a blessing and a curse. Development is always based on driver feedback, so when your driver is a generational talent who can essentially handle any type of car and be fast, the development direction becomes just that: a car that is fast and only a generational talent can handle. To get slightly off-topic, it's reminiscent of how Marc Marquez shaped Honda's development philosophy in MotoGP over the years.
 
-***So they might as well promote Franz Hermann.***
+*Should've just promote Franz Hermann.*
 
 Next, driver mismanagement. Okay, so listen: in 2023, Red Bull placed Nyck De Vries out of nowhere in the junior team over their own junior driver, only to drop him a few races later in favor of evaluating their "bestie" Daniel Ricciardo. They stuck with him for a season and more, further delaying their own junior driver cycle, only to eventually drop him mid-season and finally promote the junior driver. What I can say is that they experimented a little too much.
 
 Who is the junior driver in question? Liam Lawson. Yes, this will be the part where I defend him a little. Between Nyck De Vries and Daniel Ricciardo, that's about 35 races he missed out on, plus some pre-season testing. Not only did Liam miss valuable experience, I feel like Red Bull also missed a proper assessment that could have supported their decision for their second driver.
+
 To be fair with Red Bull, Liam wasn't very convincing by the end of 2022. He was barely ahead of his rookie teammate Logan Sargeant in F2 (although he had a lot of bad luck) while also getting beaten convincingly in the qualifying statistics. In a series like F2, where qualifying is so crucial, the race results follow. That's why he never won a feature race, though he won a few sprint races which are coincidentally reversed-grid races. Therefore, Red Bull opted for further development and put Liam in Super Formula.
 
 ![Rei and the Kawamotos](./assets/mismanagement.png)
 
 However, I feel like putting him in that particular series was counter-productive to what Liam really needed. In hindsight, the Super Formula races represent very little of what an F1 car offers, both in terms of the car itself and engineer communications. It also has very few races - 9 compared to F1's 22 races. It would've been better to put him straight into the F1 car and let him learn in the true environment, not in other series. Also, don't leave your junior drivers vacant for about a year, please.
+
 Has this 'driver mismanagement' hampered Liam? I think so. I also think that all the shenanigans he pulled in 2024, like the iconic 'not here to make friends' comment, came out of desperation from not getting the seat he really needed. But at the same time, it shouldn't be used as an excuse for his bad performances. Red Bull (and I) have praised Liam for his adaptability. Yet so far, his adaptability has only gotten him to be a 'decent driver.'
 
 To put some closure on my Liam Lawson thoughts, let me be frank. I'm quite disappointed with Liam so far in his Formula One campaign. He's shown little signs of progress and even though he has about eleven races of experience compared to his current teammate (Isack Hadjar) who has zero races, he's shown very little use of that experience. Added to that, he's been quite incident-prone, making unnecessary contacts and impatient moves. It's not like I'm completely tearing up my "Liam Lawson fan card," it's just that he's been very desperate most of the time, visibly losing his cool, and not the same aggressive yet composed Liam I've been rooting for.
