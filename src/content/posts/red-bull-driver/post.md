@@ -70,6 +70,7 @@ Isack hasn't had a particularly flashy junior campaign. In fact, I felt like it 
 He outqualified Yuki on his second attempt while also being very close to the latter's race pace (albeit with only one race and sprint sample), then dominated Liam in both race and qualifying head-to-head. He's quick but also outrageously consistent, scoring 21 points so far and carrying Racing Bulls to sixth place in the constructor standings.
 
 What I also find impressive about Isack is the pattern of his weekend performance. As the weekend begins on Friday, he's either fast straight away or a little bit behind Liam. If it's the latter case, however, he'll arrive the next day, find some impressive pace, and eventually pull himself into Q3, far ahead of Liam. The race points are just the reward. What I see here is a pattern of good feedback and excellent problem-solving, knowing exactly what he needs to get quick and extract the maximum from his car.
+
 We often see that with Max - albeit with little help from simulation drivers. Max sometimes will be quite dejected with Friday practices only to put himself on pole position the very next day. He seems to have a very good feel and understanding of the car. If it's a similar case for Isack, then it bodes very well for his future - it's exactly the kind of driver Red Bull needed.
 
 Although, the question we should be asking is whether it's truly his raw pace or simply because his driving style suits the car. It's difficult to ignore because his junior campaign wasn't exactly that of a serial winner or generational talent like Max Verstappen, George Russell, Oscar Piastri, or even Lando Norris. That's why Red Bull initially sort of rolled their eyes at Isack, and I think they need to stay skeptical.
@@ -79,6 +80,7 @@ Although, the question we should be asking is whether it's truly his raw pace or
 To be fair, Isack is only 20 years old and probably could only just be beginning the exponential climb of the learning curve. The talent we're seeing right now could be the real deal, so it needs very careful handling. I think the right approach with Isack is to observe him for at least one year, coupled with a few Red Bull tests, before a promotion to Red Bull. The team really needs to avoid the misstep of instant promotion while also avoiding disrupting their own junior driver cycle, because they also have an excellent candidate lining up in the queue.
 
 Arvid Lindblad, only 17 years old, has achieved pole position, sprint wins, and feature race wins so far in Formula Two. He's another talent climbing up the ranks and also very likely to be another generational talent alongside Mercedes' Andrea Kimi Antonelli. He's so close to getting his Super License and will definitely get an F1 seat next year.
+
 Honestly, I've barely observed Arvid throughout the year, so I barely know anything detailed about him. He was 4th in F3, even though if you look at his latest results, he nearly missed out on the title (he had a horrendous streak of no points) whether from bad luck, bad performances, or something else. He won a regional formula, some karting championships, F4 Macau, and was runner-up in multiple other regionals. What's impressive here isn't those results, but the age when he achieved them. The kid has real talent.
 
 ## The Next Step
@@ -88,11 +90,11 @@ Firstly, Arvid Lindblad absolutely cannot be ignored. He has to be in F1 next ye
 
 Then, it's between Yuki Tsunoda, Liam Lawson, and Isack Hadjar - someone needs to go. We can cross off Isack Hadjar already, since he's been quite impressive and shown great flashes of talent. Yuki or Liam? This is where I get a headache because Red Bull has faced this choice before - we know where they went, and where they went wrong. Also yeah, I have some bias.
 
-Bias aside, I feel like the wisest choice after all is to drop Liam Lawson, give Yuki another year to try the new Red Bull (since it's all-new regulations), and give Isack another year to develop and prove himself in a different kind of car. It will hurt and be unfair to Liam after the effort he's put in, but he had his chances - hopefully he could get another unlikely seat or compete in WEC, a class that he has proven himself on.
+Bias aside, I feel like the wisest choice after all is to drop Liam Lawson, give Yuki another year to try the new Red Bull (since it's all-new regulations), and give Isack another year to develop and prove himself in a different kind of car. It will hurt and be unfair to Liam after the effort he's put in, but he had his chances - hopefully he could get another unlikely seat or compete in GT series like WEC, a class that he has proven himself on.
 
 ![Rei and the Kawamotos](./assets/horneryuki.jpg)
 
-However, what concerns me is Red Bull's attitude toward Yuki. It always seems like he's been overlooked by the team several times, and there have been comments about letting him go ever since Liam's promotion. That might have changed after his own promotion, but after a string of bad performances, the team might very well evaluate dropping him - continuing another cycle of junior driver mismanagement.
+However, what concerns me is Red Bull's attitude toward Yuki. It always seems like he's been overlooked by the team several times, and there have been comments about letting him go ever since Liam's promotion. That might have changed after his own promotion, but after a string of bad performances, the team might very well evaluate dropping him in the favor of other younger drivers, including Liam. This will of course continues the cycle of junior drivers as well but in the cost of their most developed junior driver.
 
 Whatever path Red Bull takes, I hope they consider it very carefully. They're in the middle of yet another crossroads, and if another junior has to suffer because of their mismanagement, they'll truly lose a lot of respect.
 

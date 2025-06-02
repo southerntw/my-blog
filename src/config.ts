@@ -44,8 +44,8 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		LinkPreset.About,
 		{
-			name: "GitHub",
-			url: "https://github.com/southerntw", // Internal links should not include the base path, as it is automatically added
+			name: "Music Blog",
+			url: "https://dandelion-spoonbill-0ef.notion.site/Southern-s-Music-Blog-943a345046b044f69068b0f45789ecaa?source=copy_link", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
