@@ -4,7 +4,7 @@ published: 2023-09-10
 description: 'My experience playing Outer Wilds and analyzing its exemplary game design'
 image: "./assets/0.jpg"
 tags: ["Games", "Blogging"]
-category: 'Review'
+category: 'Analysis'
 draft: false 
 ---
 
